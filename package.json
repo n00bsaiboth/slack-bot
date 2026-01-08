@@ -11,9 +11,7 @@
   "author": "Jussi Jokinen (jussi.jokinen@openinnovations.io)",
   "license": "MIT",
   "dependencies": {
-    "@slack/bolt": "^4.1.1"
-  },
-  "devDependencies": {
+    "@slack/bolt": "^4.1.1",
     "dotenv": "^16.4.7"
   }
 }
